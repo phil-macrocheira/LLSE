@@ -3,7 +3,7 @@ Professor Layton London Life Save Editor
 
 This is a save editor for _Professor Layton's London Life_, a small life sim side game found within the DS game _Professor Layton and the Last Specter_. This side game was only included in the North American and Japanese versions of the game, not the European version, _Professor Layton and the Spectre's Call_.
 
-In its current form, the program is unfortunately not yet able to actually _edit_ a save file beyond updating the checksum, but it is able to read a variety of data. This program is still in beta and requires a lot of research and development to make even the simplest features work properly.
+In its current form, the program is unfortunately not yet able to actually _edit_ a save file beyond updating the checksum, but it is able to read a variety of data. This program is in early alpha and requires a lot of research and development to make even the simplest features work properly.
 
 If you wish to contact me about this project, you can message me on discord at Phil#5171.
 
