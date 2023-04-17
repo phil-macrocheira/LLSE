@@ -15,8 +15,8 @@ RESTRICTIONS:
 Current Features:
 - Updates save file with a valid checksum
 - Reads the current date
-- Reads the player's max happiness, wealth, gender, skin tone, expression, hairstyle, and hair color.
-- Reads the player's roommate and room items. (May not work with houses larger than beginning size)
+- Reads the player's max happiness, wealth, gender, skin tone, expression, hairstyle, and hair color
+- Reads the player's roommate and room items (May not work with houses larger than beginning size)
 
 Planned Features:
 - Edit current date
@@ -31,6 +31,8 @@ Planned Features:
 - Ability to trigger WFC exclusive content
 
 Data:
-- Item, Actor, and Quest List Spreadsheet: https://docs.google.com/spreadsheets/d/18VAszsjBwVjmHgC-I11Us80n1CBJWbdnRHqUrTmsAYk
+- Item, Actor, and Quest List Spreadsheet:
+https://docs.google.com/spreadsheets/d/18VAszsjBwVjmHgC-I11Us80n1CBJWbdnRHqUrTmsAYk
 
-- Memory Documentation Spreadsheet: https://docs.google.com/spreadsheets/d/1i6eGxmilNdZDjEHSeXeuchBsOfNLQ0zsw5KtZnshNNE
+- Memory Documentation Spreadsheet:
+https://docs.google.com/spreadsheets/d/1i6eGxmilNdZDjEHSeXeuchBsOfNLQ0zsw5KtZnshNNE
