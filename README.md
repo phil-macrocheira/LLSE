@@ -5,7 +5,7 @@ This is a save editor for _Professor Layton's London Life_, a small life sim sid
 
 In its current form, the program is unfortunately not yet able to actually _edit_ a save file beyond updating the checksum, but it is able to read a variety of data. This program is in early alpha and requires a lot of research and development to make even the simplest features work properly.
 
-If you wish to contact me about this project, you can message me on discord at Phil#5171.
+If you wish to contact me about this project, you can message me on discord at phil_macrocheira.
 
 RESTRICTIONS:
 - You MUST have all ongoing and grapevine quests completed for the day, even if you have cleared them before. In other words, the list of available or ongoing quests must be empty. The save editor WILL NOT work otherwise due to these quests being dynamically allocated and unpredictably sized.
